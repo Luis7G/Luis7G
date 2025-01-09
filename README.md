@@ -134,3 +134,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=luis7g&show_icons=true&theme=dark&hide_border=true" alt="luis7g" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luis7g&layout=compact&theme=dark&hide_border=true" alt="luis7g" />
 </p>
+
+---
+
+### 🚀 Proyectos Desplegados
+
+Aquí puedes ver algunos de mis proyectos en vivo. ¡Haz clic en los enlaces para explorar!
+
+- **[Nicos DB ↗️](https://nicosdb.netlify.app/)**  
+  Página web desarrollada con React y Tailwind CSS para Nicos Distribuciones Cia. Ltda., una empresa de ventas de productos de consumo masivo. Durante mi pasantía, creé un catálogo virtual que incluye optimización SEO y diseño responsivo, permitiendo a los usuarios explorar productos de manera interactiva.
+
+- **[Tu Mejor Paso ↗️](https://tumejorpaso.netlify.app/)**  
+  Sitio web desarrollado con Astro y Tailwind CSS para un emprendimiento de zapatos. Este proyecto se enfocó en la usabilidad y accesibilidad, e incluye secciones clave como "Sobre nosotros", "Productos", "Promociones", "Testimonios" y "Contacto".
+
+- **[EducaPlay ↗️](https://educaplay.netlify.app/)**  
+  Plataforma educativa desarrollada con React y Tailwind CSS. Diseñada para niños de 13 a 15 años, ofrece juegos de preguntas de ciencias naturales con videos, preguntas de opción múltiple, temporizador, puntuación y retroalimentación al final de cada pregunta. Inspirado en una plataforma existente, pero con un enfoque más pequeño y específico.
+
+- **[Sistema Académico ↗️](https://sistema-academico.netlify.app/)**  
+  Sitio web desarrollado con React y Tailwind CSS que muestra información académica en tablas. Incluye datos de estudiantes, investigaciones, docentes y materias. Este proyecto es un ejemplo de cómo presentar información de manera clara y organizada en una interfaz web.
