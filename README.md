@@ -33,22 +33,19 @@
 
 ---
 
-### **Connect with Me**
+<h3 align="center">Connect with Me</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/joel-guingla-verdezoto-fsd/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel-guingla-verdezoto-fsd/" height="30" width="40" />
-  </a>
-  <a href="https://github.com/Luis7G" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Luis7G" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### **Languages and Tools**
+<h3 align="center">Languages and Tools</h3>
 
-<p align="left">
+<p align="center">
   <!-- Frontend -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
@@ -113,12 +110,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luis7g&show_icons=true&theme=dark&hide_border=true" alt="luis7g" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luis7g&layout=compact&theme=dark&hide_border=true" alt="luis7g" />
-</p>
-
----
-
-### **Visitors Count**
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/luis7g/count.svg" alt="visitors" />
 </p>
